@@ -1,5 +1,5 @@
 {
-  "name": "chrispader-release-experiment-nitroegen",
+  "name": "chrispader-release-experiment-nitrogen",
   "version": "0.15.0",
   "description": "The code-generator for react-native-nitro-modules.",
   "main": "lib/index",
