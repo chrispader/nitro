@@ -58,15 +58,15 @@
     "@types/jest": "*",
     "@types/react": "*",
     "jest": "*",
-    "nitro-codegen": "*",
+    "chrispader-release-experiment-nitrogen": "*",
     "react": "*",
     "react-native": "*",
-    "react-native-nitro-modules": "*"
+    "chrispader-release-experiment-nitro-modules": "*"
   },
   "peerDependencies": {
     "react": "*",
     "react-native": "*",
-    "react-native-nitro-modules": "*"
+    "chrispader-release-experiment-nitro-modules": "*"
   },
   "jest": {
     "preset": "react-native",
