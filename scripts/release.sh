@@ -5,4 +5,4 @@ cd ../nitrogen
 bun release $@
 
 cd ../..
-bun release $@
+bun run release-it $@
