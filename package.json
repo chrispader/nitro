@@ -59,7 +59,7 @@
       "release": true
     },
     "hooks": {
-      "before:release": "bun run --cwd packages/react-native-nitro-image build && bun example pods"
+      "before:release": "bun run --cwd packages/react-native-nitro-image build && bun example bundle-install && bun example pods"
     },
     "plugins": {
       "@release-it/bumper": {
